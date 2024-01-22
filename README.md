@@ -1,5 +1,5 @@
 # Circular Progrebar for NET8 MAUI
-Maui component for a Circular Progress bar with NET8
+Maui component for a Circular Progress bar with NET8.
 
 ![image](https://github.com/erossini/MauiCircularProgressbar/assets/9497415/317cfb98-59c5-40a6-ab3c-e63d2ccc4412)
 
